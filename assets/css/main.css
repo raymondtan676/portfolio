@@ -236,6 +236,26 @@ input, select, textarea {
 		text-align: right;
 	}
 
+/* Raymond's CSS */
+
+.contact-info {
+	margin: 0;
+	font-size: 16px;
+}
+
+.contact-info i {
+	margin-right: 5px;
+}
+
+.feature-contact-icons {
+	margin-top: 10px;
+	padding-left: 0;
+}
+
+.feature-contact-icons i {
+	margin-right: 10px;
+}
+
 /* Row */
 
 	.row {
